@@ -25,4 +25,5 @@ public class ActivitiesController(AppDbContext context) : BaseAPIController
         }
         return activity;
     }
+    
 }
