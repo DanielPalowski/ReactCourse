@@ -484,3 +484,6 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/ReactCourse.db
+API/ReactCourse.db-wal
+API/ReactCourse.db-wal
+API/ReactCourse.db-shm
